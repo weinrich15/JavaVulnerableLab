@@ -13,4 +13,4 @@ checkmarx:
     configs:
       sast:
         presetName: 'Checkmarx Default'
-        incremental: 'false'
+        incremental: 'true'
